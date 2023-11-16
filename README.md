@@ -6,8 +6,8 @@ Hi, I'm Duy.
 Thanks for checking my profile!
 
 
-- 🔭 I’m currently working NodeJS/TypeScript, Backend architecture, Docker, CI-CD, TDD, AWS
-- 🌱 I’m currently learning Devops, Rust
+- 🔭 I’m currently working Backend NodeJS/TypeScript, Scriptings, Docker, CI-CD, TDD, AWS
+- 🌱 I’m currently learning Kubenetes, ArgoCD, GitOps, Rust
 
 ---
 <div style="text-align:center" >
